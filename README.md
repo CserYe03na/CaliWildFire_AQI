@@ -1,8 +1,8 @@
 # Impact of Wildfires on Air Quality in California
 - `README.md`: The markdown file containing instructions and a project overview.
-- `California_Fire_Incidents`: air quality measurement dataset from https://www.kaggle.com/datasets/mexwell/us-air-pollution
+- `California_Fire_Incidents.csv`: air quality measurement dataset from https://www.kaggle.com/datasets/mexwell/us-air-pollution
 - `uspollution_pollution_us_2000_2016`: detailed wildfires in California from 2013 to 2019 found at https://www.kaggle.com/code/docxian/wildfires-geospatial-visualization-and-eda
-- `Cali Fire and AQI.ipynb`: the working jupyter notebook file with data loading, preprocessing, analysis. Please see this file for our project details!!
+- `Cali Fire and AQI.ipynb.csv`: the working jupyter notebook file with data loading, data preprocessing, merging, visualization, and analysis. Please see this file for the project details!!
 ## Project Overview
 Wildfires cause devastating damage to California’s land and population every summer. Wildfires also contribute significantly to air pollution through the emissions of nitrogen dioxide (NO2), sulfur dioxide (SO2), ozone (O3), and carbon monoxide (CO). This report seeks to illustrate the relationship between air pollution and wildfires within California by observing how wildfires affect the Air Quality Index (AQI) for those four different chemicals. 
 ## Project Conclusion
